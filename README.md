@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ritvik Goyal 👋</h1>
+<h1 align="center">Hi, I'm Ritvik Goyal</h1>
 <p align="center">Computer engineering student building projects at the intersection of AI, quantum computing, and full-stack development.</p>
 
 ---
@@ -30,10 +30,3 @@
 **Frameworks & Libraries:** Flask · Flask-CORS · NumPy · SciPy · Qiskit · Matplotlib · PeerJS
 
 **Tools & Deployment:** Docker · Gunicorn · Render · Fly.io · Git
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perry5001&show_icons=true&theme=default&hide_title=false" alt="Ritvik's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perry5001&layout=compact&theme=default" alt="Top languages" height="165"/>
-</p>
