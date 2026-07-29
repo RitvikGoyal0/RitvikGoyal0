@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Ritvik Goyal</h1>
-<p align="center">Computer engineering student building projects at the intersection of AI, quantum computing, and full-stack development.</p>
+<p align="center">Computer engineering student building projects across FPGA, AI, quantum computing, and full-stack development.</p>
 
 ---
 
 ### About Me
 
-- I build end-to-end passion projects — from a neural network written from scratch to a quantum circuit simulator — and ship them as real, deployed web apps rather than leaving them as notebooks.
-- Interested in **machine learning fundamentals**, **quantum computing**, and **full-stack web development**.
-- Currently exploring how classical algorithms and models can be rebuilt from first principles (no high-level ML frameworks) to actually understand what's happening under the hood.
-- Comfortable across the stack: Python/Flask backends, JavaScript/HTML/CSS front ends, and deployment on Render/Fly.io/Docker.
+- Interested in **RTL development**, **machine learning fundamentals**, and **quantum computing**.
+- Currently exploring HDL programming for FPGAs and ASICs.
+- Comfortable across the stack too — Python/Flask backends, JavaScript/HTML/CSS front ends, and deployment on Render/Fly.io/Docker.
 - Reach me through [LinkedIn](https://www.linkedin.com/in/ritvik-goyal-4b1610407/).
 
 ---
@@ -26,8 +25,8 @@
 
 ### Tech Stack
 
-**Languages:** Python · JavaScript · HTML/CSS · C#
+**Languages:** Verilog · Python · JavaScript · HTML/CSS · C#
 
-**Frameworks & Libraries:** Flask · Flask-CORS · NumPy · SciPy · Qiskit · Matplotlib · PeerJS
+**Frameworks & Libraries:** Apio · Flask · Flask-CORS · NumPy · SciPy · Qiskit · Matplotlib · PeerJS
 
-**Tools & Deployment:** Docker · Gunicorn · Render · Fly.io · Git
+**Tools & Deployment:** Icarus · Yosys · Docker · Gunicorn · Render · Fly.io · Git
