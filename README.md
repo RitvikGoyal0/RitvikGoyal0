@@ -8,7 +8,7 @@
 - Interested in **RTL development**, **machine learning fundamentals**, and **quantum computing**.
 - Currently exploring HDL programming for FPGAs and ASICs.
 - Comfortable across the stack too — Python/Flask backends, JavaScript/HTML/CSS front ends, and deployment on Render/Fly.io/Docker.
-- Reach me through [LinkedIn](www.linkedin.com/in/ritvikgoyal0).
+- Reach me through [LinkedIn](https://www.linkedin.com/in/ritvikgoyal0).
 
 ---
 
